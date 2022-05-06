@@ -41,13 +41,11 @@ Não se prenda a detalhes estéticos, vamos valorizar a estrutura e a maneira co
 5. Não se esqueça de enviar o banco de dados! 
 
 ## Informações extras
-
-* O objetivo aqui é tentar entender melhor a sua forma de trabalho, sua organização de código e como trabalha com a base do front.
 * Informe as instruções necessárias para rodar o projeto :)
 * Configure uma demo do projeto para vermos em produção (gh-pages/Netlify). 
 
 ## Proposta
-
+* O objetivo aqui é tentar entender melhor a sua forma de trabalho, sua organização de código e como trabalha com a base do front.
 
 **Boa sorte!**
 
