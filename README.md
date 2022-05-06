@@ -6,7 +6,7 @@
 
 ## Seja um VXzeiro!
 
-Estamos no mercado desde 2002, e nosso QG está localizado na cidade de Niterói. Somos uma agência 360 e temos vários cases legais (<a href="#">clique aqui</a> para conhecer alguns).
+Estamos no mercado desde 2002, e nosso QG está localizado na cidade de Niterói. Somos uma agência 360 e temos vários cases legais (<a href="https://vxcomunicacao.com.br/todos-cases/" target="_blank">clique aqui</a> para conhecer alguns).
 
 Acreditamos no trabalho duro, amamos o que fazemos e somos incansáveis na missão de cultivar relações interpessoais transparentes, duradouras e produtivas.
 
@@ -34,7 +34,7 @@ Não se prenda a detalhes estéticos, vamos valorizar a estrutura e a maneira co
 
 ## Como enviar os arquivos? 
 
-1. `Fork` ou `clone` projeto `git clone https://github.com/tuutcreative/front-end.git`
+1. `Fork` ou `clone` projeto `git clone https://github.com/diogocaldas/desenvolvedor-web`
 2. Crie um `branch` com suas alterações
 3. Faça um `README.md` falando um pouco de você e porque você gostaria de trabalhar aqui na VX.
 4. Faça um `pull request`
