@@ -18,8 +18,6 @@ O que buscamos neste teste é tentar conhecer melhor o seu trabalho.
 
 Preparamos um layout de site e você precisa montar o front-end de uma página seguindo esse modelo.
 
-No figma, faça a importação do arquivo **LadingPage.fig** para obter informações sobre o o layout e recorte de imagens.
-
 ## O que esperamos no teste
 
 * Front-end responsivo.
@@ -31,8 +29,9 @@ No figma, faça a importação do arquivo **LadingPage.fig** para obter informa�
 
 ## Informações extras
 
-A fonte **Globotipo Texto** utilizada no layout deve ser importada através do <a href="https://cdn.jsdelivr.net/gh/viniciusvasc13/globoplay@master/globotipo2.css" target="_blank">**JSDelivr**</a>.
+No figma, faça a importação do arquivo **LadingPage.fig** para obter informações sobre o o layout e recorte de imagens.
 
+A fonte **Globotipo Texto** utilizada no layout deve ser importada através do <a href="https://cdn.jsdelivr.net/gh/viniciusvasc13/globoplay@master/globotipo2.css" target="_blank">**JSDelivr**</a>.
 
 ## Como enviar os arquivos? 
 
