@@ -1,4 +1,4 @@
-][![vx](vx.png)
+![vx](vx.png)
 
 # Teste desenvolvedor front-end
 
